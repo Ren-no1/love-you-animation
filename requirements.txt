@@ -1,0 +1,5 @@
+pygame>=2.0.0
+qrcode[pil]>=7.3
+Pillow>=9.0.0
+imageio>=2.20.0
+imageio-ffmpeg>=0.4.8
